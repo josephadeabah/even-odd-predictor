@@ -1,9 +1,5 @@
 import joblib
 import numpy as np
-
-model = joblib.load("even_odd_model.pkl")
-
-import joblib
 import pandas as pd
 
 model = joblib.load("even_odd_model.pkl")
